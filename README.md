@@ -92,7 +92,7 @@ This FIFO design was created with modularity, scalability, and correctness in mi
 For detailed design specifications, block diagrams, waveforms and testbench results:
 
 🔗 Download Project PDF
-(https://github.com/kranthiuppada/synchronous-fifo/blob/main/Design%20%26%20Verification%20of%20Synchronous%20FIFO%20using%20Verilog.pdf)
+()
 
 ---
 
@@ -103,26 +103,6 @@ For detailed design specifications, block diagrams, waveforms and testbench resu
 - 📈 **VCD/GTKWAVE** – Optional for waveform analysis  
 - 🧪 Manual Testbench – No UVM or formal verification
 
----
----
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).  
-
-
----
-
-## 👩‍💻 Author
-
-**Kranthi Uppada**  
-B.Tech ECE | Digital Design Enthusiast  
-[GitHub Profile](https://github.com/kranthiuppada)
-
----
-
-
-
-Thank you for viewing this project.  
 
 
