@@ -92,7 +92,7 @@ This FIFO design was created with modularity, scalability, and correctness in mi
 For detailed design specifications, block diagrams, waveforms and testbench results:
 
 🔗 Download Project PDF
-(Design & Verification of Synchronous FIFO using Verilog.pdf)
+([Design & Verification of Synchronous FIFO using Verilog.pdf](https://github.com/AritraBanerjee-09/Synchronous-FIFO-using-Verilog/blob/4c198fdc7d3767dc48509565852a83b640776b93/Design%20%26%20Verification%20of%20Synchronous%20FIFO%20using%20Verilog.pdf))
 
 ---
 
